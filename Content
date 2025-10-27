@@ -1,0 +1,48 @@
+Index
+
+ Object-Oriented Programming & Classes
+
+1. Write a C++ program to store details of 5 employees and display the details of the employee with the highest salary or search an employee by their ID.
+2. Program to demonstrate *access control* using **protected** members in *public inheritance* with the concept of *class hierarchy (e.g., Vehicle → Car → ElectricCar)*.
+3. Program to store and display information of 5 books using an *array of objects*.
+4. Program to demonstrate a function returning an *object of a class Product* that represents a combined discount of two products.
+5. Program to illustrate **call by reference** on objects where the function swaps the data of two Student objects.
+
+
+ Arrays & Searching/Sorting:
+
+6. Program to sort names of 10 students in *ascending order* using an array.
+7. Program to perform *linear search* for a specific book title in an array of book names.
+8. Program to perform *binary search* on an array of roll numbers to find a student.
+9. Program to insert a new element at a given position in an integer array.
+10. Program to delete a specific number from an array and display the updated list.
+
+
+
+String & File Handling
+
+11. Write a C++ program to input a paragraph and a word, then find the **first and last position** of that word and count the number of digits present.
+12. Write a C++ program that finds the **largest continuous sequence of even numbers** between 1 and N.
+13. Write a C++ function to count how many times the words *“computer”* and *“science”* occur in a text file named `"NOTES.TXT"`.
+14. Write a C++ program to display the **total number of characters and lines** in a file `"DATA.TXT"`.
+
+
+
+ Linked Lists & Dynamic Memory
+
+15. Program to insert a new node at a specific position in a singly linked list.
+16. Program to delete the last node from a linked list and display the updated list.
+17. Write a C++ program to dynamically allocate memory for an integer array, accept values, and display their sum using pointers.
+
+
+
+ Polymorphism, Constructors, and Destructors
+
+18. Write a C++ program demonstrating **runtime polymorphism** by creating a base class `Employee` and derived classes `Manager` and `Developer`, each overriding a function `calculateSalary()`.
+19. Write a C++ program with a class `Car` that uses a constructor to initialize its model and brand, and a destructor to display a message when an object is deleted.
+
+
+ File Handling & Data Structures
+
+20. Write a C++ program to create a **binary file** to store student records (Roll No., Name, Marks). Include options to **update, delete, and view** records using `fstream`.
+21. Write a menu-driven C++ program to implement *queue operations* (enqueue, dequeue, and display) using arrays and linked lists.
