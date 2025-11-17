@@ -44,5 +44,5 @@ String & File Handling
 
  File Handling & Data Structures
 
-20. Write a C++ program to create a **binary file** to store student records (Roll No., Name, Marks). Include options to **update, delete, and view** records using `fstream`.
+20. Write a C++ program to create a **TXT file** to store student records (Roll No., Name, Marks). Include options to **update, delete, and view** records using `fstream`.
 21. Write a menu-driven C++ program to implement *queue operations* (enqueue, dequeue, and display) using arrays and linked lists.
